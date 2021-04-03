@@ -1,8 +1,8 @@
 package ru.ustyuzhinskiydev.a232_screencast1
 
 import android.app.Application
-import android.os.Debug
 import timber.log.Timber
+import timber.log.Timber.DebugTree
 
 class App:Application() {
 
